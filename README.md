@@ -1,0 +1,1 @@
+Bot Discord permettant de reconnaitre la langue du message envoyé. L'application utilise le module franc.

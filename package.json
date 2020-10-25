@@ -1,0 +1,24 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "Bot Discord Permettant de reconnaitre le langage de la personne ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mev-bit/LanguageBot.git"
+  },
+  "author": "Mev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mev-bit/LanguageBot/issues"
+  },
+  "homepage": "https://github.com/Mev-bit/LanguageBot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.0",
+    "dotenv": "^8.2.0",
+    "franc": "^5.0.0"
+  }
+}
